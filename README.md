@@ -16,7 +16,7 @@ git clone https://github.com/MasashiTeruya/hello-golang.git && cd hello-golang/a
 
 Build Docker image
 ```
-docker built -t hello-golang .
+docker build -t hello-golang .
 ```
 
 Run app
